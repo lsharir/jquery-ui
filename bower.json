@@ -1,5 +1,6 @@
 {
 	"name": "jquery-ui",
+  	"main": "dist/jquery-ui.js",
 	"ignore": [
 		"**/.*",
 		"build",
